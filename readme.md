@@ -32,4 +32,4 @@ Feel free to modify the code and add your own custom functions. To do so, follow
 2. Add the function definition to the `functions` list, including the name, description, and parameters.
 3. Update the function call handling section of the code to execute your new function when it's called by the model.
 
-Remember to follow the guidelines and limits of the Chat Completions API when defining and using custom functions. Enjoy experimenting with the GPT Function Playground!
+Remember to follow the guidelines and limits of the Chat Completions API when defining and using custom functions. Enjoy experimenting with the GPT Function Playground! It's super fun!
